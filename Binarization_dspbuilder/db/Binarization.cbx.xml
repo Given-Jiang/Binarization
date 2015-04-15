@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Binarization">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Binarization|Binarization_GN:\Binarization_GN_0:inst_Binarization_GN_0|Binarization_GN_Binarization_Binarization_Module:binarization_binarization_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer1|alt_dspbuilder_sMuxAltr:nto1Multiplexeri|LPM_MUX:\gc:U0" CBX_FILE_NAME="mux_p1e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Binarization|Binarization_GN:\Binarization_GN_0:inst_Binarization_GN_0|Binarization_GN_Binarization_Binarization_Module:binarization_binarization_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer|alt_dspbuilder_sMuxAltr:nto1Multiplexeri|LPM_MUX:\gc:U0" CBX_FILE_NAME="mux_p1e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
